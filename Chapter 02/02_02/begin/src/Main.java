@@ -1,7 +1,8 @@
-public class Main {
+import java.awt.*;
 
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Kathryn");
-    }
+public  class Car {
+    int averageMPG;
+    String lisencePlate;
+    Color paintColor;
+    boolean areTailLightsWorking;
 }
